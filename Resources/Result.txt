@@ -1,0 +1,4 @@
+C:\Users\Aleksej\source\repos\netwrix_task\Resources\Files\123.br
+C:\Users\Aleksej\source\repos\netwrix_task\Resources\Files\file_1.txt
+C:\Users\Aleksej\source\repos\netwrix_task\Resources\Files\file_3.cd
+C:\Users\Aleksej\source\repos\netwrix_task\Resources\Files\апа\Новый текстовый документ.txt
